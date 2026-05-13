@@ -1,0 +1,427 @@
+{
+  "districts": [
+    {
+      "districtId": "KA-BGM",
+      "districtName": { "en": "Belagavi", "kn": "ಬೆಳಗಾವಿ" },
+      "famousFor": { "en": "Kittur Fort and Freedom Movement", "kn": "ಕಿತ್ತೂರು ಕೋಟೆ ಮತ್ತು ಸ್ವಾತಂತ್ರ್ಯ ಚಳುವಳಿ" },
+      "imageName": "dist_belagavi",
+      "heroes": [
+        {
+          "name": { "en": "Kittur Chennamma", "kn": "ಕಿತ್ತೂರು ಚೆನ್ನಮ್ಮ" },
+          "description": {
+            "en": "Kittur Chennamma was the courageous Queen of Kittur who led one of the earliest armed rebellions against British rule in India. She is celebrated as a symbol of female bravery and resistance in Karnataka's history.",
+            "kn": "ಕಿತ್ತೂರು ಚೆನ್ನಮ್ಮ ಭಾರತದಲ್ಲಿ ಬ್ರಿಟಿಷ್ ಆಳ್ವಿಕೆಯ ವಿರುದ್ಧ ಆರಂಭಿಕ ಸಶಸ್ತ್ರ ದಂಗೆಗಳಲ್ಲಿ ಒಂದನ್ನು ಮುನ್ನಡೆಸಿದ ಕಿತ್ತೂರಿನ ಧೈರ್ಯಶಾಲಿ ರಾಣಿ. ಕರ್ನಾಟಕದ ಇತಿಹಾಸದಲ್ಲಿ ಅವರು ಸ್ತ್ರೀ ಶೌರ್ಯ ಮತ್ತು ಪ್ರತಿರೋಧದ ಸಂಕೇತವಾಗಿ ಆಚರಿಸಲ್ಪಡುತ್ತಾರೆ."
+          },
+          "imageName": "hero_chennamma",
+          "type": "FREEDOM_FIGHTER",
+          "era": "1778–1829",
+          "storyPages": [
+            { "text": { "en": "Kittur Chennamma was the Queen of Kittur, a princely state in Karnataka.", "kn": "ಕಿತ್ತೂರು ಚೆನ್ನಮ್ಮ ಕರ್ನಾಟಕದ ಒಂದು ಸಂಸ್ಥಾನವಾದ ಕಿತ್ತೂರಿನ ರಾಣಿಯಾಗಿದ್ದರು." }, "highlight": { "en": "The Brave Queen", "kn": "ವೀರ ರಾಣಿ" } },
+            { "text": { "en": "She led an armed rebellion against the British East India Company in 1824.", "kn": "೧೮೨೪ರಲ್ಲಿ ಬ್ರಿಟಿಷ್ ಈಸ್ಟ್ ಇಂಡಿಯಾ ಕಂಪನಿಯ ವಿರುದ್ಧ ಸಶಸ್ತ್ರ ದಂಗೆಯನ್ನು ಮುನ್ನಡೆಸಿದರು." }, "highlight": { "en": "Armed Rebellion", "kn": "ಸಶಸ್ತ್ರ ದಂಗೆ" } },
+            { "text": { "en": "Chennamma fought against the 'Doctrine of Lapse' to protect her kingdom's independence.", "kn": "ತನ್ನ ರಾಜ್ಯದ ಸ್ವಾತಂತ್ರ್ಯವನ್ನು ರಕ್ಷಿಸಲು ಅವರು 'ದತ್ತು ಮಕ್ಕಳಿಗೆ ಹಕ್ಕಿಲ್ಲ' ಎಂಬ ನಿಯಮದ ವಿರುದ್ಧ ಹೋರಾಡಿದರು." }, "highlight": { "en": "Protection of Sovereignty", "kn": "ಸಾರ್ವಭೌಮತ್ವದ ರಕ್ಷಣೆ" } },
+            { "text": { "en": "She defeated the British forces in the first battle at Kittur.", "kn": "ಕಿತ್ತೂರಿನಲ್ಲಿ ನಡೆದ ಮೊದಲ ಯುದ್ಧದಲ್ಲಿ ಅವರು ಬ್ರಿಟಿಷ್ ಸೈನ್ಯವನ್ನು ಸೋಲಿಸಿದರು." }, "highlight": { "en": "First Victory", "kn": "ಮೊದಲ ವಿಜಯ" } },
+            { "text": { "en": "Though captured later, her bravery inspired many future freedom fighters in India.", "kn": "ನಂತರ ಸೆರೆಯಲ್ಲಿದ್ದರೂ, ಅವರ ಶೌರ್ಯವು ಭಾರತದ ಅನೇಕ ಭವಿಷ್ಯದ ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟಗಾರರಿಗೆ ಸ್ಫೂರ್ತಿ ನೀಡಿತು." }, "highlight": { "en": "Inspiration", "kn": "ಸ್ಫೂರ್ತಿ" } }
+          ],
+          "quiz": [
+            { "question": { "en": "Which state did Chennamma rule?", "kn": "ಚೆನ್ನಮ್ಮ ಯಾವ ರಾಜ್ಯವನ್ನು ಆಳಿದರು?" }, "options": [ { "en": "Mysore", "kn": "ಮೈಸೂರು" }, { "en": "Kittur", "kn": "ಕಿತ್ತೂರು" }, { "en": "Keladi", "kn": "ಕೆಲದಿ" }, { "en": "Jhansi", "kn": "ಝಾನ್ಸಿ" } ], "correctIndex": 1 },
+            { "question": { "en": "When did her rebellion against the British start?", "kn": "ಬ್ರಿಟಿಷರ ವಿರುದ್ಧ ಅವರ ದಂಗೆ ಯಾವಾಗ ಪ್ರಾರಂಭವಾಯಿತು?" }, "options": [ { "en": "1857", "kn": "೧೮೫೭" }, { "en": "1824", "kn": "೧೮೨೪" }, { "en": "1942", "kn": "೧೯೪೨" }, { "en": "1799", "kn": "೧೭೯೯" } ], "correctIndex": 1 },
+            { "question": { "en": "What policy did she fight against?", "kn": "ಅವರು ಯಾವ ನೀತಿಯ ವಿರುದ್ಧ ಹೋರಾಡಿದರು?" }, "options": [ { "en": "Salt Tax", "kn": "ಉಪ್ಪಿನ ತೆರಿಗೆ" }, { "en": "Doctrine of Lapse", "kn": "ದತ್ತು ಮಕ್ಕಳಿಗೆ ಹಕ್ಕಿಲ್ಲ" }, { "en": "Subsidiary Alliance", "kn": "ಸಹಾಯಕ ಸೈನ್ಯ ಪದ್ಧತಿ" }, { "en": "Divide and Rule", "kn": "ಒಡೆದು ಆಳುವ ನೀತಿ" } ], "correctIndex": 1 }
+          ],
+          "statueCoords": { "lat": 15.6042, "lng": 74.7925, "description": "Kittur Fort" }
+        }
+      ]
+    },
+    {
+      "districtId": "KA-BLR-U",
+      "districtName": { "en": "Bengaluru Urban", "kn": "ಬೆಂಗಳೂರು ನಗರ" },
+      "famousFor": { "en": "IT Capital and Parks", "kn": "ಐಟಿ ರಾಜಧಾನಿ ಮತ್ತು ಉದ್ಯಾನವನಗಳು" },
+      "imageName": "dist_bengaluru",
+      "heroes": [
+        {
+          "name": { "en": "Nadaprabhu Kempegowda", "kn": "ಕೆಂಪೇಗೌಡ" },
+          "description": {
+            "en": "Nadaprabhu Kempegowda was the visionary founder of Bengaluru city and a prominent ruler under the Vijayanagara Empire. He is credited with planning the layout of modern Bengaluru and building numerous landmarks.",
+            "kn": "ನಾಡಪ್ರಭು ಕೆಂಪೇಗೌಡರು ಬೆಂಗಳೂರು ನಗರದ ದಾರ್ಶನಿಕ ಸ್ಥಾಪಕರು ಮತ್ತು ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯದ ಅಡಿಯಲ್ಲಿ ಪ್ರಮುಖ ಆಡಳಿತಗಾರರಾಗಿದ್ದರು. ಆಧುನಿಕ ಬೆಂಗಳೂರಿನ ವಿನ್ಯಾಸವನ್ನು ಯೋಜಿಸಿದ ಮತ್ತು ಹಲವಾರು ಹೆಗ್ಗುರುತುಗಳನ್ನು ನಿರ್ಮಿಸಿದ ಕೀರ್ತಿ ಅವರಿಗೆ ಸಲ್ಲುತ್ತದೆ."
+          },
+          "imageName": "hero_kempegowda",
+          "type": "WARRIOR",
+          "era": "1510–1569",
+          "storyPages": [
+            { "text": { "en": "Kempegowda was a chieftain under the Vijayanagara Empire and is the founder of Bengaluru.", "kn": "ಕೆಂಪೇಗೌಡರು ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯದ ಅಡಿಯಲ್ಲಿ ಒಬ್ಬ ಪಾಳೇಗಾರರಾಗಿದ್ದರು ಮತ್ತು ಬೆಂಗಳೂರಿನ ಸ್ಥಾಪಕರು." }, "highlight": { "en": "Founder of Bengaluru", "kn": "ಬೆಂಗಳೂರು ಸ್ಥಾಪಕ" } },
+            { "text": { "en": "He envisioned a modern city and built a mud fort in 1537.", "kn": "ಅವರು ಆಧುನಿಕ ನಗರವನ್ನು ಕಲ್ಪಿಸಿಕೊಂಡರು ಮತ್ತು ೧೫೩೭ರಲ್ಲಿ ಮಣ್ಣಿನ ಕೋಟೆಯನ್ನು ನಿರ್ಮಿಸಿದರು." }, "highlight": { "en": "Mud Fort", "kn": "ಮಣ್ಣಿನ ಕೋಟೆ" } },
+            { "text": { "en": "He established various 'pete' or markets for different trades in the city.", "kn": "ನಗರದಲ್ಲಿ ವಿವಿಧ ವ್ಯಾಪಾರಗಳಿಗಾಗಿ ಅವರು ಅನೇಕ 'ಪೇಟೆ'ಗಳನ್ನು ಸ್ಥಾಪಿಸಿದರು." }, "highlight": { "en": "Market Planning", "kn": "ಮಾರುಕಟ್ಟೆ ಯೋಜನೆ" } },
+            { "text": { "en": "Kempegowda built many temples and lakes to ensure water supply and spiritual growth.", "kn": "ನೀರು ಸರಬರಾಜು ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಬೆಳವಣಿಗೆಯನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು ಅವರು ಅನೇಕ ದೇವಾಲಯಗಳನ್ನು ಮತ್ತು ಕೆರೆಗಳನ್ನು ನಿರ್ಮಿಸಿದರು." }, "highlight": { "en": "Lakes and Temples", "kn": "ಕೆರೆಗಳು ಮತ್ತು ದೇವಾಲಯಗಳು" } },
+            { "text": { "en": "His legacy continues to define the identity of the garden city today.", "kn": "ಅವರ ಪರಂಪರೆಯು ಇಂದು ಉದ್ಯಾನ ನಗರಿಯ ಅಸ್ಮಿತೆಯನ್ನು ವ್ಯಾಖ್ಯಾನಿಸುವುದನ್ನು ಮುಂದುವರೆಸಿದೆ." }, "highlight": { "en": "Modern Bengaluru", "kn": "ಆಧುನಿಕ ಬೆಂಗಳೂರು" } }
+          ],
+          "quiz": [
+            { "question": { "en": "Who founded Bengaluru city?", "kn": "ಬೆಂಗಳೂರು ನಗರವನ್ನು ಸ್ಥಾಪಿಸಿದವರು ಯಾರು?" }, "options": [ { "en": "Tipu Sultan", "kn": "ಟಿಪ್ಪು ಸುಲ್ತಾನ್" }, { "en": "Kempegowda", "kn": "ಕೆಂಪೇಗೌಡ" }, { "en": "Hyder Ali", "kn": "ಹೈದರ್ ಅಲಿ" }, { "en": "Visvesvaraya", "kn": "ವಿಶ್ವೇಶ್ವರಯ್ಯ" } ], "correctIndex": 1 },
+            { "question": { "en": "In which year was the Bengaluru Fort built?", "kn": "ಬೆಂಗಳೂರು ಕೋಟೆಯನ್ನು ಯಾವ ವರ್ಷದಲ್ಲಿ ನಿರ್ಮಿಸಲಾಯಿತು?" }, "options": [ { "en": "1537", "kn": "೧೫೩೭" }, { "en": "1600", "kn": "೧೬೦೦" }, { "en": "1450", "kn": "೧೪೫೦" }, { "en": "1700", "kn": "೧೭೦೦" } ], "correctIndex": 0 },
+            { "question": { "en": "Kempegowda was a chieftain under which empire?", "kn": "ಕೆಂಪೇಗೌಡರು ಯಾವ ಸಾಮ್ರಾಜ್ಯದ ಅಡಿಯಲ್ಲಿ ಪಾಳೇಗಾರರಾಗಿದ್ದರು?" }, "options": [ { "en": "Mughal", "kn": "ಮೊಘಲ್" }, { "en": "Maratha", "kn": "ಮರಾಠ" }, { "en": "Vijayanagara", "kn": "ವಿಜಯನಗರ" }, { "en": "Bahmani", "kn": "ಬಹಮನಿ" } ], "correctIndex": 2 }
+          ],
+          "statueCoords": { "lat": 12.9716, "lng": 77.5946, "description": "Statue at Airport" }
+        }
+      ]
+    },
+    {
+      "districtId": "KA-MYS",
+      "districtName": { "en": "Mysuru", "kn": "ಮೈಸೂರು" },
+      "famousFor": { "en": "Palaces, Sandalwood, and Silk", "kn": "ಅರಮನೆಗಳು, ಶ್ರೀಗಂಧ ಮತ್ತು ರೇಷ್ಮೆ" },
+      "imageName": "dist_mysuru",
+      "heroes": [
+        {
+          "name": { "en": "Nalwadi Krishnaraja Wadiyar", "kn": "ನಾಲ್ವಡಿ ಕೃಷ್ಣರಾಜ ಒಡೆಯರ್" },
+          "description": {
+            "en": "Nalwadi Krishnaraja Wadiyar was the Maharaja of Mysore known for his progressive rule and immense contributions to education, industry, and social welfare. He is often called the 'Architect of Modern Mysore'.",
+            "kn": "ನಾಲ್ವಡಿ ಕೃಷ್ಣರಾಜ ಒಡೆಯರ್ ಮೈಸೂರಿನ ಮಹಾರಾಜರಾಗಿದ್ದು, ಅವರ ಪ್ರಗತಿಪರ ಆಳ್ವಿಕೆ ಮತ್ತು ಶಿಕ್ಷಣ, ಕೈಗಾರಿಕೆ ಹಾಗೂ ಸಾಮಾಜಿಕ ಕಲ್ಯಾಣಕ್ಕೆ ನೀಡಿದ ಅಪಾರ ಕೊಡುಗೆಗಾಗಿ ಹೆಸರುವಾಸಿಯಾಗಿದ್ದಾರೆ. ಅವರನ್ನು ಹೆಚ್ಚಾಗಿ 'ಆಧುನಿಕ ಮೈಸೂರಿನ ಶಿಲ್ಪಿ' ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ."
+          },
+          "imageName": "hero_nalwadi",
+          "type": "REFORMER",
+          "era": "1884–1940",
+          "storyPages": [
+            { "text": { "en": "Nalwadi Krishnaraja Wadiyar was the Maharaja of Mysore who brought massive social reforms.", "kn": "ನಾಲ್ವಡಿ ಕೃಷ್ಣರಾಜ ಒಡೆಯರ್ ಮೈಸೂರಿನ ಮಹಾರಾಜರಾಗಿದ್ದು, ಬೃಹತ್ ಸಾಮಾಜಿಕ ಸುಧಾರಣೆಗಳನ್ನು ತಂದರು." }, "highlight": { "en": "Social Reformer", "kn": "ಸಾಮಾಜಿಕ ಸುಧಾರಕ" } },
+            { "text": { "en": "He focused on education, irrigation, and the empowerment of marginalized communities.", "kn": "ಅವರು ಶಿಕ್ಷಣ, ನೀರಾವರಿ ಮತ್ತು ಹಿಂದುಳಿದ ಸಮುದಾಯಗಳ ಸಬಲೀಕರಣದ ಮೇಲೆ ಗಮನ ಹರಿಸಿದರು." }, "highlight": { "en": "Welfare State", "kn": "ಕಲ್ಯಾಣ ರಾಜ್ಯ" } },
+            { "text": { "en": "He established many iconic institutions like the University of Mysore.", "kn": "ಅವರು ಮೈಸೂರು ವಿಶ್ವವಿದ್ಯಾಲಯದಂತಹ ಅನೇಕ ಐತಿಹಾಸಿಕ ಸಂಸ್ಥೆಗಳನ್ನು ಸ್ಥಾಪಿಸಿದರು." }, "highlight": { "en": "Institutional Growth", "kn": "ಸಂಸ್ಥೆಗಳ ಬೆಳವಣಿಗೆ" } },
+            { "text": { "en": "His reign is often referred to as the 'Golden Age of Mysore'.", "kn": "ಅವರ ಆಳ್ವಿಕೆಯನ್ನು ಹೆಚ್ಚಾಗಿ 'ಮೈಸೂರಿನ ಸುವರ್ಣ ಯುಗ' ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ." }, "highlight": { "en": "Golden Age", "kn": "ಸುವರ್ಣ ಯುಗ" } },
+            { "text": { "en": "Mahatma Gandhi called him a 'Rajarishi' for his noble qualities.", "kn": "ಅವರ ಉದಾತ್ತ ಗುಣಗಳಿಗಾಗಿ ಮಹಾತ್ಮ ಗಾಂಧಿಯವರು ಅವರನ್ನು 'ರಾಜರ್ಷಿ' ಎಂದು ಕರೆದರು." }, "highlight": { "en": "Rajarishi", "kn": "ರಾಜರ್ಷಿ" } }
+          ],
+          "quiz": [
+            { "question": { "en": "What title did Mahatma Gandhi give him?", "kn": "ಮಹಾತ್ಮ ಗಾಂಧಿ ಅವರಿಗೆ ಯಾವ ಬಿರುದನ್ನು ನೀಡಿದರು?" }, "options": [ { "en": "Maharaja", "kn": "ಮಹಾರಾಜ" }, { "en": "Rajarishi", "kn": "ರಾಜರ್ಷಿ" }, { "en": "Sardar", "kn": "ಸರ್ದಾರ್" }, { "en": "Netaji", "kn": "ನೇತಾಜಿ" } ], "correctIndex": 1 },
+            { "question": { "en": "Which famous dam was built during his reign?", "kn": "ಅವರ ಆಳ್ವಿಕೆಯಲ್ಲಿ ಯಾವ ಪ್ರಸಿದ್ಧ ಅಣೆಕಟ್ಟನ್ನು ನಿರ್ಮಿಸಲಾಯಿತು?" }, "options": [ { "en": "KRS Dam", "kn": "ಕೆಆರ್‌ಎಸ್ ಅಣೆಕಟ್ಟು" }, { "en": "Almatti", "kn": "ಆಲಮಟ್ಟಿ" }, { "en": "Tungabhadra", "kn": "ತುಂಗಭದ್ರಾ" }, { "en": "Supa", "kn": "ಸೂಪಾ" } ], "correctIndex": 0 },
+            { "question": { "en": "Which university did he establish in 1916?", "kn": "೧೯೧೬ರಲ್ಲಿ ಅವರು ಯಾವ ವಿಶ್ವವಿದ್ಯಾಲಯವನ್ನು ಸ್ಥಾಪಿಸಿದರು?" }, "options": [ { "en": "Bangalore University", "kn": "ಬೆಂಗಳೂರು ವಿಶ್ವವಿದ್ಯಾಲಯ" }, { "en": "University of Mysore", "kn": "ಮೈಸೂರು ವಿಶ್ವವಿದ್ಯಾಲಯ" }, { "en": "Karnatak University", "kn": "ಕರ್ನಾಟಕ ವಿಶ್ವವಿದ್ಯಾಲಯ" }, { "en": "Gulbarga University", "kn": "ಗುಲ್ಬರ್ಗ ವಿಶ್ವವಿದ್ಯಾಲಯ" } ], "correctIndex": 1 }
+          ],
+          "statueCoords": { "lat": 12.3051, "lng": 76.6551, "description": "Mysuru Palace" }
+        }
+      ]
+    },
+    {
+      "districtId": "KA-DWD",
+      "districtName": { "en": "Dharwad", "kn": "ಧಾರವಾಡ" },
+      "famousFor": { "en": "Music, Literature, and Pedha", "kn": "ಸಂಗೀತ, ಸಾಹಿತ್ಯ ಮತ್ತು ಪೇಡಾ" },
+      "imageName": "dist_dharwad",
+      "heroes": [
+        {
+          "name": { "en": "Basavanna", "kn": "ಬಸವಣ್ಣ" },
+          "description": {
+            "en": "Basavanna was a 12th-century philosopher, statesman, and Kannada poet in the Shiva-focussed Bhakti movement. He spread social awareness through his poetry, known as Vachanas, and advocated for equality and human rights.",
+            "kn": "ಬಸವಣ್ಣ ೧೨ನೇ ಶತಮಾನದ ತತ್ವಜ್ಞಾನಿ, ರಾಜನೀತಿಜ್ಞ ಮತ್ತು ಭಕ್ತಿ ಚಳುವಳಿಯ ಕನ್ನಡ ಕವಿ. ಅವರು ವಚನಗಳ ಮೂಲಕ ಸಾಮಾಜಿಕ ಜಾಗೃತಿಯನ್ನು ಹರಡಿದರು ಮತ್ತು ಸಮಾನತೆ ಹಾಗೂ ಮಾನವ ಹಕ್ಕುಗಳಿಗಾಗಿ ಪ್ರತಿಪಾದಿಸಿದರು."
+          },
+          "imageName": "hero_basavanna",
+          "type": "REFORMER",
+          "era": "12th Century",
+          "storyPages": [
+            { "text": { "en": "Basavanna was a philosopher, statesman, and social reformer in 12th century Karnataka.", "kn": "ಬಸವಣ್ಣ ೧೨ನೇ ಶತಮಾನದ ಕರ್ನಾಟಕದ ತತ್ವಜ್ಞಾನಿ, ರಾಜನೀತಿಜ್ಞ och ಸಾಮಾಜಿಕ ಸುಧಾರಕರಾಗಿದ್ದರು." }, "highlight": { "en": "Spiritual Leader", "kn": "ಆಧ್ಯಾತ್ಮಿಕ ನಾಯಕ" } },
+            { "text": { "en": "He promoted social equality and fought against the caste system.", "kn": "ಅವರು ಸಾಮಾಜಿಕ ಸಮಾನತೆಯನ್ನು ಉತ್ತೇಜಿಸಿದರು ಮತ್ತು ಜಾತಿ ಪದ್ಧತಿಯ ವಿರುದ್ಧ ಹೋರಾಡಿದರು." }, "highlight": { "en": "Equality", "kn": "ಸಮಾನತೆ" } },
+            { "text": { "en": "He established 'Anubhava Mantapa', often called the first parliament of the world.", "kn": "ಅವರು ವಿಶ್ವದ ಮೊದಲ ಸಂಸತ್ತು ಎಂದು ಕರೆಯಲ್ಪಡುವ 'ಅನುಭವ ಮಂಟಪ'ವನ್ನು ಸ್ಥಾಪಿಸಿದರು." }, "highlight": { "en": "Anubhava Mantapa", "kn": "ಅನುಭವ ಮಂಟಪ" } },
+            { "text": { "en": "His vachanas spread simple but profound spiritual truths to common people.", "kn": "ಅವರ ವಚನಗಳು ಸಾಮಾನ್ಯ ಜನರಿಗೆ ಸರಳವಾದ ಆದರೆ ಆಳವಾದ ಆಧ್ಯಾತ್ಮಿಕ ಸತ್ಯಗಳನ್ನು ತಲುಪಿಸಿದವು." }, "highlight": { "en": "Vachana Sahitya", "kn": "ವಚನ ಸಾಹಿತ್ಯ" } },
+            { "text": { "en": "His philosophy of 'Work is Worship' (Kayakawe Kailasa) inspired millions.", "kn": "ಅವರ 'ಕಾಯಕವೇ ಕೈಲಾಸ' ಎಂಬ ತತ್ವವು ಲಕ್ಷಾಂತರ ಜನರಿಗೆ ಸ್ಫೂರ್ತಿ ನೀಡಿತು." }, "highlight": { "en": "Kayaka", "kn": "ಕಾಯಕ" } }
+          ],
+          "quiz": [
+            { "question": { "en": "What did Basavanna establish for spiritual discussion?", "kn": "ಆಧ್ಯಾತ್ಮಿಕ ಚರ್ಚೆಗಾಗಿ ಬಸವಣ್ಣ ಏನನ್ನು ಸ್ಥಾಪಿಸಿದರು?" }, "options": [ { "en": "Vidhana Soudha", "kn": "ವಿಧಾನಸೌಧ" }, { "en": "Anubhava Mantapa", "kn": "ಅನುಭವ ಮಂಟಪ" }, { "en": "Temple", "kn": "ದೇವಾಲಯ" }, { "en": "School", "kn": "ಶಾಲೆ" } ], "correctIndex": 1 },
+            { "question": { "en": "What does 'Kayakawe Kailasa' mean?", "kn": "'ಕಾಯಕವೇ ಕೈಲಾಸ' ಎಂದರೆ ಏನು?" }, "options": [ { "en": "Life is joy", "kn": "ಜೀವನವೇ ಸಂತೋಷ" }, { "en": "Work is Worship", "kn": "ಕೆಲಸವೇ ಪೂಜೆ" }, { "en": "Peace is power", "kn": "ಶಾಂತಿಯೇ ಶಕ್ತಿ" }, { "en": "Love is God", "kn": "ಪ್ರೀತಿಯೇ ದೇವರು" } ], "correctIndex": 1 },
+            { "question": { "en": "In which century did Basavanna live?", "kn": "ಬಸವಣ್ಣ ಯಾವ ಶತಮಾನದಲ್ಲಿ ಬದುಕಿದ್ದರು?" }, "options": [ { "en": "10th", "kn": "೧೦ನೇ" }, { "en": "12th", "kn": "೧೨ನೇ" }, { "en": "15th", "kn": "೧೫ನೇ" }, { "en": "18th", "kn": "೧೮ನೇ" } ], "correctIndex": 1 }
+          ]
+        }
+      ]
+    },
+    {
+      "districtId": "KA-SHG",
+      "districtName": { "en": "Shivamogga", "kn": "ಶಿವಮೊಗ್ಗ" },
+      "famousFor": { "en": "Jog Falls and Western Ghats", "kn": "ಜೋಗ ಜಲಪಾತ ಮತ್ತು ಪಶ್ಚಿಮ ಘಟ್ಟಗಳು" },
+      "imageName": "dist_shivamogga",
+      "heroes": [
+        {
+          "name": { "en": "Kuvempu", "kn": "ಕುವೆಂಪು" },
+          "description": {
+            "en": "Kuppali Venkatappa Puttappa, popularly known by his pen name Kuvempu, was a legendary Kannada writer and poet. He was the first Kannada writer to receive the Jnanpith Award and is celebrated for his concept of 'Vishwa Manava' (Universal Man).",
+            "kn": "ಕುಪ್ಪಳಿ ವೆಂಕಟಪ್ಪ ಪುಟ್ಟಪ್ಪ, ಕುವೆಂಪು ಎಂಬ ಕಾವ್ಯನಾಮದಿಂದ ಜನಪ್ರಿಯರಾದವರು, ಕನ್ನಡದ ಪೌರಾಣಿಕ ಬರಹಗಾರ ಮತ್ತು ಕವಿ. ಅವರು ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ಪಡೆದ ಮೊದಲ ಕನ್ನಡ ಲೇಖಕರು ಮತ್ತು ಅವರ 'ವಿಶ್ವ ಮಾನವ' ಪರಿಕಲ್ಪನೆಗಾಗಿ ಪ್ರಸಿದ್ಧರಾಗಿದ್ದಾರೆ."
+          },
+          "imageName": "hero_kuvempu",
+          "type": "POET",
+          "era": "1904–1994",
+          "storyPages": [
+            { "text": { "en": "Kuvempu was a legendary Kannada poet and the first to win Jnanpith for Kannada.", "kn": "ಕುವೆಂಪು ಕನ್ನಡದ ಪೌರಾಣಿಕ ಕವಿ ಮತ್ತು ಕನ್ನಡಕ್ಕೆ ಜ್ಞಾನಪೀಠ ಪ್ರಶಸ್ತಿ ತಂದುಕೊಟ್ಟ ಮೊದಲ ವ್ಯಕ್ತಿ." }, "highlight": { "en": "Rishikavi", "kn": "ಋಷಿಕವಿ" } },
+            { "text": { "en": "He promoted the concept of 'Vishwa Manava' or the Universal Man.", "kn": "ಅವರು 'ವಿಶ್ವ ಮಾನವ' ಎಂಬ ಪರಿಕಲ್ಪನೆಯನ್ನು ಉತ್ತೇಜಿಸಿದರು." }, "highlight": { "en": "Universalism", "kn": "ವಿಶ್ವಮಾನವತ್ವ" } },
+            { "text": { "en": "His home, Kuppali, is now a beautiful museum and cultural center.", "kn": "ಅವರ ಮನೆ ಕುಪ್ಪಳಿ ಈಗ ಒಂದು ಸುಂದರ ವಸ್ತುಸಂಗ್ರಹಾಲಯ ಮತ್ತು ಸಾಂಸ್ಕೃತಿಕ ಕೇಂದ್ರವಾಗಿದೆ." }, "highlight": { "en": "Kavishaila", "kn": "ಕವಿಶೈಲ" } },
+            { "text": { "en": "He wrote the Karnataka state anthem 'Jaya Bharata Jananiya Tanujate'.", "kn": "ಅವರು ಕರ್ನಾಟಕ ರಾಜ್ಯ ಗೀತೆ 'ಜಯ ಭಾರತ ಜನನಿಯ ತನುಜಾತೆ'ಯನ್ನು ಬರೆದಿದ್ದಾರೆ." }, "highlight": { "en": "State Anthem", "kn": "ರಾಜ್ಯ ಗೀತೆ" } },
+            { "text": { "en": "His works emphasized equality, nature, and the beauty of Malnad.", "kn": "ಅವರ ಕೃತಿಗಳು ಸಮಾನತೆ, ಪ್ರಕೃತಿ ಮತ್ತು ಮಲೆನಾಡಿನ ಸೌಂದರ್ಯವನ್ನು ಎತ್ತಿ ತೋರಿಸಿದವು." }, "highlight": { "en": "Malnad Pride", "kn": "ಮಲೆನಾಡಿನ ಹೆಮ್ಮೆ" } }
+          ],
+          "quiz": [
+            { "question": { "en": "Which concept did Kuvempu promote?", "kn": "ಕುವೆಂಪು ಯಾವ ಪರಿಕಲ್ಪನೆಯನ್ನು ಪ್ರಚಾರ ಮಾಡಿದರು?" }, "options": [ { "en": "War", "kn": "ಯುದ್ಧ" }, { "en": "Vishwa Manava", "kn": "ವಿಶ್ವ ಮಾನವ" }, { "en": "Industry", "kn": "ಕೈಗಾರಿಕೆ" }, { "en": "Trade", "kn": "ವ್ಯಾಪಾರ" } ], "correctIndex": 1 },
+            { "question": { "en": "Who wrote 'Jaya Bharata Jananiya Tanujate'?", "kn": "'ಜಯ ಭಾರತ ಜನನಿಯ ತನುಜಾತೆ' ಬರೆದವರು ಯಾರು?" }, "options": [ { "en": "Bendre", "kn": "ಬೇಂದ್ರೆ" }, { "en": "Kuvempu", "kn": "ಕುವೆಂಪು" }, { "en": "Masti", "kn": "ಮಾಸ್ತಿ" }, { "en": "Pampa", "kn": "ಪಂಪ" } ], "correctIndex": 1 },
+            { "question": { "en": "Kuvempu was the first Kannada writer to receive which award?", "kn": "ಯಾವ ಪ್ರಶಸ್ತಿ ಪಡೆದ ಮೊದಲ ಕನ್ನಡ ಲೇಖಕ ಕುವೆಂಪು?" }, "options": [ { "en": "Nobel", "kn": "ನೋಬೆಲ್" }, { "en": "Jnanpith", "kn": "ಜ್ಞಾನಪೀಠ" }, { "en": "Oscar", "kn": "ಆಸ್ಕರ್" }, { "en": "Bharat Ratna", "kn": "ಭಾರತ ರತ್ನ" } ], "correctIndex": 1 }
+          ]
+        }
+      ]
+    },
+    {
+      "districtId": "KA-UDP",
+      "districtName": { "en": "Udupi", "kn": "ಉಡುಪಿ" },
+      "famousFor": { "en": "Krishna Temple and Beaches", "kn": "ಕೃಷ್ಣ ಮಠ ಮತ್ತು ಸಮುದ್ರ ತೀರಗಳು" },
+      "imageName": "dist_udupi",
+      "heroes": [
+        {
+          "name": { "en": "Kanakadasa", "kn": "ಕನಕದಾಸರು" },
+          "description": {
+            "en": "Kanakadasa was a great saint, philosopher, and musician of the Haridasa tradition. He is known for his devotional songs and his struggle against social discrimination, especially the famous 'Kanakana Kindi' incident in Udupi.",
+            "kn": "ಕನಕದಾಸರು ಹರಿದಾಸ ಪರಂಪರೆಯ ಮಹಾನ್ ಸಂತ, ತತ್ವಜ್ಞಾನಿ ಮತ್ತು ಸಂಗೀತಗಾರರಾಗಿದ್ದರು. ಅವರು ತಮ್ಮ ಭಕ್ತಿಗೀತೆಗಳಿಗೆ ಮತ್ತು ಸಾಮಾಜಿಕ ತಾರತಮ್ಯದ ವಿರುದ್ಧದ ಹೋರಾಟಕ್ಕೆ ಹೆಸರುವಾಸಿಯಾಗಿದ್ದಾರೆ, ಅದರಲ್ಲೂ ಉಡುಪಿಯ ಪ್ರಸಿದ್ಧ 'ಕನಕನ ಕಿಂಡಿ' ಘಟನೆ ಪ್ರಮುಖವಾದುದು."
+          },
+          "imageName": "hero_kanakadasa",
+          "type": "POET",
+          "era": "1509–1609",
+          "storyPages": [
+            { "text": { "en": "Kanakadasa was a saint, philosopher, and musician from the Haridasa tradition.", "kn": "ಕನಕದಾಸರು ಹರಿದಾಸ ಪರಂಪರೆಯ ಸಂತ, ತತ್ವಜ್ಞಾನಿ ಮತ್ತು ಸಂಗೀತಗಾರರಾಗಿದ್ದರು." }, "highlight": { "en": "Haridasa", "kn": "ಹರಿದಾಸ" } },
+            { "text": { "en": "He composed many devotional songs called 'Keerthanas'.", "kn": "ಅವರು 'ಕೀರ್ತನೆಗಳು' ಎಂಬ ಅನೇಕ ಭಕ್ತಿಗೀತೆಗಳನ್ನು ರಚಿಸಿದರು." }, "highlight": { "en": "Devotional Music", "kn": "ಭಕ್ತಿ ಸಂಗೀತ" } },
+            { "text": { "en": "Legend says the Krishna idol in Udupi turned around to face him when he was denied entry.", "kn": "ಉಡುಪಿ ದೇವಸ್ಥಾನದಲ್ಲಿ ಪ್ರವೇಶ ನಿರಾಕರಿಸಿದಾಗ ಕೃಷ್ಣನ ವಿಗ್ರಹವು ಅವರ ಕಡೆಗೆ ತಿರುಗಿತು ಎಂಬ ಪ್ರತೀತಿಯಿದೆ." }, "highlight": { "en": "Kanakana Kindi", "kn": "ಕನಕನ ಕಿಂಡಿ" } },
+            { "text": { "en": "He used his songs to challenge social injustice and caste discrimination.", "kn": "ಅವರು ಸಾಮಾಜಿಕ ಅನ್ಯಾಯ ಮತ್ತು ಜಾತಿ ತಾರತಮ್ಯವನ್ನು ಪ್ರಶ್ನಿಸಲು ತಮ್ಮ ಹಾಡುಗಳನ್ನು ಬಳಸಿದರು." }, "highlight": { "en": "Social Reform", "kn": "ಸಾಮಾಜಿಕ ಸುಧಾರಣೆ" } },
+            { "text": { "en": "His works remain a vital part of Karnataka's spiritual and musical heritage.", "kn": "ಅವರ ಕೃತಿಗಳು ಕರ್ನಾಟಕದ ಆಧ್ಯಾತ್ಮಿಕ ಮತ್ತು ಸಂಗೀತ ಪರಂಪರೆಯ ಪ್ರಮುಖ ಭಾಗವಾಗಿ ಉಳಿದಿವೆ." }, "highlight": { "en": "Musical Heritage", "kn": "ಸಂಗೀತ ಪರಂಪರೆ" } }
+          ],
+          "quiz": [
+            { "question": { "en": "What is the small window in Udupi Krishna Temple called?", "kn": "ಉಡುಪಿ ಕೃಷ್ಣ ಮಠದಲ್ಲಿರುವ ಸಣ್ಣ ಕಿಂಡಿಯನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?" }, "options": [ { "en": "Surya Kindi", "kn": "ಸೂರ್ಯ ಕಿಂಡಿ" }, { "en": "Kanakana Kindi", "kn": "ಕನಕನ ಕಿಂಡಿ" }, { "en": "Chandra Kindi", "kn": "ಚಂದ್ರ ಕಿಂಡಿ" }, { "en": "Rama Kindi", "kn": "ರಾಮ ಕಿಂಡಿ" } ], "correctIndex": 1 },
+            { "question": { "en": "Kanakadasa belonged to which tradition?", "kn": "ಕನಕದಾಸರು ಯಾವ ಪರಂಪರೆಗೆ ಸೇರಿದವರು?" }, "options": [ { "en": "Sufi", "kn": "ಸೂಫಿ" }, { "en": "Haridasa", "kn": "ಹರಿದಾಸ" }, { "en": "Shaiva", "kn": "ಶೈವ" }, { "en": "Buddhist", "kn": "ಬೌದ್ಧ" } ], "correctIndex": 1 },
+            { "question": { "en": "What kind of songs did he compose?", "kn": "ಅವರು ಯಾವ ರೀತಿಯ ಹಾಡುಗಳನ್ನು ರಚಿಸಿದರು?" }, "options": [ { "en": "Pop", "kn": "ಪಾಪ್" }, { "en": "Keerthanas", "kn": "ಕೀರ್ತನೆಗಳು" }, { "en": "Ghazals", "kn": "ಘಜಲ್" }, { "en": "Rock", "kn": "ರಾಕ್" } ], "correctIndex": 1 }
+          ]
+        }
+      ]
+    },
+    {
+      "districtId": "KA-CHT",
+      "districtName": { "en": "Chitradurga", "kn": "ಚಿತ್ರದುರ್ಗ" },
+      "famousFor": { "en": "Seven-Circled Fort and Brave History", "kn": "ಏಳು ಸುತ್ತಿನ ಕೋಟೆ ಮತ್ತು ಶೌರ್ಯದ ಇತಿಹಾಸ" },
+      "imageName": "dist_chitradurga",
+      "heroes": [
+        {
+          "name": { "en": "Onake Obavva", "kn": "ಓಬವ್ವ" },
+          "description": {
+            "en": "Onake Obavva was a courageous woman who single-handedly defended the Chitradurga Fort against the forces of Hyder Ali. Using a simple pestle (Onake), she killed many invading soldiers and became an immortal icon of bravery.",
+            "kn": "ಓಬವ್ವ ಹೈದರ್ ಅಲಿಯ ಸೈನ್ಯದ ವಿರುದ್ಧ ಚಿತ್ರದುರ್ಗದ ಕೋಟೆಯನ್ನು ಏಕಾಂಗಿಯಾಗಿ ರಕ್ಷಿಸಿದ ಶೌರ್ಯವಂತ ಮಹಿಳೆ. ಕೇವಲ ಒಂದು ಒನಕೆಯನ್ನು ಬಳಸಿ ಅವರು ಅನೇಕ ಆಕ್ರಮಣಕಾರಿ ಸೈನಿಕರನ್ನು ಕೊಂದರು ಮತ್ತು ಶೌರ್ಯದ ಅಜರಾಮರ ಸಂಕೇತವಾದರು."
+          },
+          "imageName": "hero_obavva",
+          "type": "WARRIOR",
+          "era": "18th Century",
+          "storyPages": [
+            { "text": { "en": "Onake Obavva was a brave woman who protected the Chitradurga Fort.", "kn": "ಓಬವ್ವ ಚಿತ್ರದುರ್ಗದ ಕೋಟೆಯನ್ನು ರಕ್ಷಿಸಿದ ಶೌರ್ಯವಂತ ಮಹಿಳೆ." }, "highlight": { "en": "Heroine of Chitradurga", "kn": "ಚಿತ್ರದುರ್ಗದ ವೀರವನಿತೆ" } },
+            { "text": { "en": "She fought alone against Hyder Ali's invading army using only an 'Onake' (pestle).", "kn": "ಹೈದರ್ ಅಲಿಯ ಆಕ್ರಮಣಕಾರಿ ಸೈನ್ಯದ ವಿರುದ್ಧ ಅವರು ಕೇವಲ ಒಂದು 'ಒನಕೆ'ಯನ್ನು ಬಳಸಿ ಏಕಾಂಗಿಯಾಗಿ ಹೋರಾಡಿದರು." }, "highlight": { "en": "Unconventional Weapon", "kn": "ಅಸಾಮಾನ್ಯ ಆಯುಧ" } },
+            { "text": { "en": "She noticed soldiers sneaking through a secret hole in the fort rocks.", "kn": "ಕೋಟೆಯ ಬಂಡೆಗಳ ರಹಸ್ಯ ಕಿಂಡಿಯ ಮೂಲಕ ಸೈನಿಕರು ನುಗ್ಗುತ್ತಿರುವುದನ್ನು ಅವರು ಗಮನಿಸಿದರು." }, "highlight": { "en": "Secret Hole", "kn": "ರಹಸ್ಯ ಕಿಂಡಿ" } },
+            { "text": { "en": "She struck each soldier on the head as they tried to enter, saving the fort that day.", "kn": "ಒಳಗೆ ಬರಲು ಪ್ರಯತ್ನಿಸಿದ ಪ್ರತಿಯೊಬ್ಬ ಸೈನಿಕನ ತಲೆಗೆ ಹೊಡೆದು ಅಂದು ಅವರು ಕೋಟೆಯನ್ನು ಉಳಿಸಿದರು." }, "highlight": { "en": "Lone Defense", "kn": "ಏಕಾಂಗಿ ರಕ್ಷಣೆ" } },
+            { "text": { "en": "Her bravery is a legendary part of Karnataka's history.", "kn": "ಅವರ ಶೌರ್ಯವು ಕರ್ನಾಟಕದ ಇತಿಹಾಸದ ಒಂದು ಪೌರಾಣಿಕ ಭಾಗವಾಗಿದೆ." }, "highlight": { "en": "Historical Legend", "kn": "ಐತಿಹಾಸಿಕ ಪುರಾಣ" } }
+          ],
+          "quiz": [
+            { "question": { "en": "Which object did Obavva use as a weapon?", "kn": "ಓಬವ್ವ ಯಾವ ವಸ್ತುವನ್ನು ಆಯುಧವಾಗಿ ಬಳಸಿದರು?" }, "options": [ { "en": "Sword", "kn": "ಕತ್ತಿ" }, { "en": "Onake (Pestle)", "kn": "ಒನಕೆ" }, { "en": "Bow", "kn": "ಬಿಲ್ಲು" }, { "en": "Shield", "kn": "ಗುರಾಣಿ" } ], "correctIndex": 1 },
+            { "question": { "en": "Which fort did she protect?", "kn": "ಅವರು ಯಾವ ಕೋಟೆಯನ್ನು ರಕ್ಷಿಸಿದರು?" }, "options": [ { "en": "Bidar", "kn": "ಬೀದರ್" }, { "en": "Chitradurga", "kn": "ಚಿತ್ರದುರ್ಗ" }, { "en": "Kittur", "kn": "ಕಿತ್ತೂರು" }, { "en": "Mysuru", "kn": "ಮೈಸೂರು" } ], "correctIndex": 1 },
+            { "question": { "en": "Against whose army did she fight?", "kn": "ಅವರು ಯಾರ ಸೈನ್ಯದ ವಿರುದ್ಧ ಹೋರಾಡಿದರು?" }, "options": [ { "en": "British", "kn": "ಬ್ರಿಟಿಷ್" }, { "en": "Hyder Ali", "kn": "ಹೈದರ್ ಅಲಿ" }, { "en": "Mughal", "kn": "ಮೊಘಲ್" }, { "en": "Maratha", "kn": "ಮರಾಠ" } ], "correctIndex": 1 }
+          ]
+        }
+      ]
+    },
+    {
+      "districtId": "KA-KOD",
+      "districtName": { "en": "Kodagu", "kn": "ಕೊಡಗು" },
+      "famousFor": { "en": "Coffee and Brave Soldiers", "kn": "ಕಾಫಿ ಮತ್ತು ಶೂರ ಸೈನಿಕರು" },
+      "imageName": "dist_kodagu",
+      "heroes": [
+        {
+          "name": { "en": "Field Marshal Cariappa", "kn": "ಫೀಲ್ಡ್ ಮಾರ್ಷಲ್ ಕಾರ್ಯಪ್ಪ" },
+          "description": {
+            "en": "Kodandera Madappa Cariappa was the first Indian Commander-in-Chief of the Indian Army. Hailing from Kodagu, he was a legendary military figure and one of only two Indian Army officers to hold the five-star rank of Field Marshal.",
+            "kn": "ಕೊಡಂದೇರ ಮಡಪ್ಪ ಕಾರ್ಯಪ್ಪ ಅವರು ಭಾರತೀಯ ಭೂಸೈನ್ಯದ ಮೊದಲ ಭಾರತೀಯ ದಂಡನಾಯಕರಾಗಿದ್ದರು. ಕೊಡಗಿನವರಾದ ಇವರು ಪೌರಾಣಿಕ ಸೇನಾ ವ್ಯಕ್ತಿ och ಫೀಲ್ಡ್ ಮಾರ್ಷಲ್ ಹುದ್ದೆಯನ್ನು ಹೊಂದಿರುವ ಕೇವಲ ಇಬ್ಬರು ಭಾರತೀಯ ಅಧಿಕಾರಿಗಳಲ್ಲಿ ಒಬ್ಬರು."
+          },
+          "imageName": "hero_cariappa",
+          "type": "WARRIOR",
+          "era": "1899–1993",
+          "storyPages": [
+            { "text": { "en": "K. M. Cariappa was the first Indian Commander-in-Chief of the Indian Army.", "kn": "ಕೆ. ಎಂ. ಕಾರ್ಯಪ್ಪ ಅವರು ಭಾರತೀಯ ಭೂಸೈನ್ಯದ ಮೊದಲ ಭಾರತೀಯ ದಂಡನಾಯಕರಾಗಿದ್ದರು." }, "highlight": { "en": "Military Leader", "kn": "ಸೇನಾ ನಾಯಕ" } },
+            { "text": { "en": "Hailing from Kodagu, he is one of only two Indian officers to hold the rank of Field Marshal.", "kn": "ಕೊಡಗಿನವರಾದ ಇವರು ಫೀಲ್ಡ್ ಮಾರ್ಷಲ್ ಹುದ್ದೆಯನ್ನು ಹೊಂದಿರುವ ಕೇವಲ ಇಬ್ಬರು ಭಾರತೀಯ ಅಧಿಕಾರಿಗಳಲ್ಲಿ ಒಬ್ಬರು." }, "highlight": { "en": "Field Marshal", "kn": "ಫೀಲ್ಡ್ ಮಾರ್ಷಲ್" } },
+            { "text": { "en": "He played a crucial role in shaping the post-independence Indian military.", "kn": "ಸ್ವಾತಂತ್ರ್ಯದ ನಂತರದ ಭಾರತೀಯ ಸೈನ್ಯವನ್ನು ರೂಪಿಸುವಲ್ಲಿ ಅವರು ಪ್ರಮುಖ ಪಾತ್ರ ವಹಿಸಿದರು." }, "highlight": { "en": "Military Reform", "kn": "ಸೇನಾ ಸುಧಾರಣೆ" } },
+            { "text": { "en": "He was known for his discipline, integrity, and leadership skills.", "kn": "ಅವರು ಶಿಸ್ತು, ಪ್ರಾಮಾಣಿಕತೆ ಮತ್ತು ನಾಯಕತ್ವದ ಕೌಶಲ್ಯಗಳಿಗೆ ಹೆಸರುವಾಸಿಯಾಗಿದ್ದರು." }, "highlight": { "en": "Leadership", "kn": "ನಾಯಕತ್ವ" } },
+            { "text": { "en": "His legacy continues to inspire thousands of youngsters to join the armed forces.", "kn": "ಅವರ ಪರಂಪರೆಯು ಸಾವಿರಾರು ಯುವಕರಿಗೆ ಸೈನ್ಯ ಸೇರಲು ಇಂದಿಗೂ ಸ್ಫೂರ್ತಿ ನೀಡುತ್ತಿದೆ." }, "highlight": { "en": "National Inspiration", "kn": "ರಾಷ್ಟ್ರಬೀಯ ಸ್ಫೂರ್ತಿ" } }
+          ],
+          "quiz": [
+            { "question": { "en": "What was the highest rank held by Cariappa?", "kn": "ಕಾರ್ಯಪ್ಪ ಅವರು ಹೊಂದಿದ್ದ ಅತ್ಯುನ್ನತ ಹುದ್ದೆ ಯಾವುದು?" }, "options": [ { "en": "General", "kn": "ಜನರಲ್" }, { "en": "Field Marshal", "kn": "ಫೀಲ್ಡ್ ಮಾರ್ಷಲ್" }, { "en": "Major", "kn": "ಮೇಜರ್" }, { "en": "Captain", "kn": "ಕ್ಯಾಪ್ಟನ್" } ], "correctIndex": 1 },
+            { "question": { "en": "Which district did Cariappa hail from?", "kn": "ಕಾರ್ಯಪ್ಪ ಅವರು ಯಾವ ಜಿಲ್ಲೆಯವರು?" }, "options": [ { "en": "Hassan", "kn": "ಹಾಸನ" }, { "en": "Kodagu", "kn": "ಕೊಡಗು" }, { "en": "Mandya", "kn": "ಮಂಡ್ಯ" }, { "en": "Kolar", "kn": "ಕೋಲಾರ" } ], "correctIndex": 1 },
+            { "question": { "en": "He was the first Indian to hold which post?", "kn": "ಯಾವ ಹುದ್ದೆಯನ್ನು ಅಲಂಕರಿಸಿದ ಮೊದಲ ಭಾರತೀಯ ಇವರು?" }, "options": [ { "en": "President", "kn": "ಅಧ್ಯಕ್ಷ" }, { "en": "Commander-in-Chief", "kn": "ದಂಡನಾಯಕ" }, { "en": "Governor", "kn": "ರಾಜ್ಯಪಾಲ" }, { "en": "Prime Minister", "kn": "ಪ್ರಧಾನ ಮಂತ್ರಿ" } ], "correctIndex": 1 }
+          ]
+        }
+      ]
+    },
+    {
+      "districtId": "KA-HSN",
+      "districtName": { "en": "Hassan", "kn": "ಹಾಸನ" },
+      "famousFor": { "en": "Hoysala Architecture", "kn": "ಹೊಯ್ಸಳ ವಾಸ್ತುಶಿಲ್ಪ" },
+      "imageName": "dist_hassan",
+      "heroes": [
+        {
+          "name": { "en": "Vishnuvardhana", "kn": "ವಿಷ್ಣುವರ್ಧನ" },
+          "description": {
+            "en": "Vishnuvardhana was a prominent king of the Hoysala Empire in Karnataka. He is celebrated for his military conquests and for commissioned the exquisite Chennakeshava Temple at Belur, a masterpiece of Hoysala architecture.",
+            "kn": "ವಿಷ್ಣುವರ್ಧನ ಕರ್ನಾಟಕದ ಹೊಯ್ಸಳ ಸಾಮ್ರಾಜ್ಯದ ಪ್ರಮುಖ ರಾಜನಾಗಿದ್ದನು. ಅವನು ತನ್ನ ಸೈನಿಕ ವಿಜಯಗಳಿಗಾಗಿ ಮತ್ತು ಹೊಯ್ಸಳ ವಾಸ್ತುಶಿಲ್ಪದ ಮೇರುಕೃತಿಯಾದ ಬೇಲೂರಿನ ಸುಂದರ ಚೆನ್ನಕೇಶವ ದೇವಾಲಯವನ್ನು ನಿರ್ಮಿಸಿದುದಕ್ಕಾಗಿ ಪ್ರಸಿದ್ಧನಾಗಿದ್ದಾನೆ."
+          },
+          "imageName": "hero_vishnuvardhana",
+          "type": "WARRIOR",
+          "era": "1108–1152",
+          "storyPages": [
+            { "text": { "en": "Vishnuvardhana was the greatest king of the Hoysala Empire.", "kn": "ವಿಷ್ಣುವರ್ಧನ ಹೊಯ್ಸಳ ಸಾಮ್ರಾಜ್ಯದ ಶ್ರೇಷ್ಠ ರಾಜನಾಗಿದ್ದನು." }, "highlight": { "en": "Hoysala King", "kn": "ಹೊಯ್ಸಳ ರಾಜ" } },
+            { "text": { "en": "He built the magnificent Chennakeshava Temple at Belur.", "kn": "ಅವನು ಬೇಲೂರಿನಲ್ಲಿ ಭವ್ಯವಾದ ಚೆನ್ನಕೇಶವ ದೇವಾಲಯವನ್ನು ನಿರ್ಮಿಸಿದನು." }, "highlight": { "en": "Architecture", "kn": "ವಾಸ್ತುಶಿಲ್ಪ" } },
+            { "text": { "en": "He expanded his kingdom through many successful military campaigns.", "kn": "ಅವನು ಅನೇಕ ಯಶಸ್ವಿ ಸೈನಿಕ ಕಾರ್ಯಾಚರಣೆಗಳ ಮೂಲಕ ತನ್ನ ಸಾಮ್ರಾಜ್ಯವನ್ನು ವಿಸ್ತರಿಸಿದನು." }, "highlight": { "en": "Expansion", "kn": "ವಿಸ್ತರಣೆ" } },
+            { "text": { "en": "He was a patron of art, literature, and religion.", "kn": "ಅವನು ಕಲೆ, ಸಾಹಿತ್ಯ ಮತ್ತು ಧರ್ಮದ ಪೋಷಕನಾಗಿದ್ದನು." }, "highlight": { "en": "Patronage", "kn": "ಪೋತ್ಸಾಹ" } },
+            { "text": { "en": "His reign marked the golden period of Hoysala culture and power.", "kn": "ಅವನ ಆಳ್ವಿಕೆಯು ಹೊಯ್ಸಳ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಶಕ್ತಿಯ ಸುವರ್ಣ ಕಾಲವಾಗಿತ್ತು." }, "highlight": { "en": "Cultural Peak", "kn": "ಸಾಂಸ್ಕೃತಿಕ ಶಿಖರ" } }
+          ],
+          "quiz": [
+            { "question": { "en": "Which famous temple did Vishnuvardhana build in Belur?", "kn": "ಬೇಲೂರಿನಲ್ಲಿ ವಿಷ್ಣುವರ್ಧನ ಯಾವ ಪ್ರಸಿದ್ಧ ದೇವಾಲಯವನ್ನು ನಿರ್ಮಿಸಿದನು?" }, "options": [ { "en": "Virupaksha", "kn": "ವಿರೂಪಾಕ್ಷ" }, { "en": "Chennakeshava", "kn": "ಚೆನ್ನಕೇಶವ" }, { "en": "Meenakshi", "kn": "ಮೀನಾಕ್ಷಿ" }, { "en": "Golden Temple", "kn": "ಸ್ವರ್ಣ ಮಂದಿರ" } ], "correctIndex": 1 },
+            { "question": { "en": "He was the king of which empire?", "kn": "ಅವನು ಯಾವ ಸಾಮ್ರಾಜ್ಯದ ರಾಜನಾಗಿದ್ದನು?" }, "options": [ { "en": "Mughal", "kn": "ಮೊಘಲ್" }, { "en": "Hoysala", "kn": "ಹೊಯ್ಸಳ" }, { "en": "Chola", "kn": "ಚೋಳ" }, { "en": "Ganga", "kn": "ಗಂಗಾ" } ], "correctIndex": 1 },
+            { "question": { "en": "Hassan district is famous for the architecture of which dynasty?", "kn": "ಹಾಸನ ಜಿಲ್ಲೆಯು ಯಾವ ರಾಜವಂಶದ ವಾಸ್ತುಶಿಲ್ಪಕ್ಕೆ ಹೆಸರುವಾಸಿಯಾಗಿದೆ?" }, "options": [ { "en": "Kadamba", "kn": "ಕದಂಬ" }, { "en": "Hoysala", "kn": "ಹೊಯ್ಸಳ" }, { "en": "Chalukya", "kn": "ಚಾಲುಕ್ಯ" }, { "en": "Rashtrakuta", "kn": "ರಾಷ್ಟ್ರಕೂಟ" } ], "correctIndex": 1 }
+          ]
+        }
+      ]
+    },
+    {
+      "districtId": "KA-TMK",
+      "districtName": { "en": "Tumakuru", "kn": "ತುಮಕೂರು" },
+      "famousFor": { "en": "Coconuts and Education", "kn": "ತೆಂಗಿನಕಾಯಿ ಮತ್ತು ಶಿಕ್ಷಣ" },
+      "imageName": "dist_tumakuru",
+      "heroes": [
+        {
+          "name": { "en": "Siddaganga Swami", "kn": "ಸಿದ್ದಗಂಗಾ ಸ್ವಾಮಿ" },
+          "description": {
+            "en": "Dr. Shivakumara Swami was a revered humanitarian and head of the Siddaganga Math. Known as the 'Walking God', he dedicated his life to providing free education, food, and shelter to thousands of students regardless of their background.",
+            "kn": "ಡಾ. ಶಿವಕುಮಾರ ಸ್ವಾಮೀಜಿ ಪೂಜ್ಯ ಮಾನವತಾವಾದಿ och ಸಿದ್ದಗಂಗಾ ಮಠದ ಮುಖ್ಯಸ್ಥರಾಗಿದ್ದರು. 'ನಡೆದಾಡುವ ದೇವರು' ಎಂದು ಕರೆಯಲ್ಪಡುವ ಅವರು, ಸಾವಿರಾರು ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಅವರ ಹಿನ್ನೆಲೆಯನ್ನು ಲೆಕ್ಕಿಸದೆ ಉಚಿತ ಶಿಕ್ಷಣ, ಆಹಾರ ಮತ್ತು ವಸತಿ ನೀಡಲು ತಮ್ಮ ಜೀವನವನ್ನು ಮುಡುಪಾಗಿಟ್ಟರು."
+          },
+          "imageName": "hero_siddaganga",
+          "type": "REFORMER",
+          "era": "1907–2019",
+          "storyPages": [
+            { "text": { "en": "Dr. Shivakumara Swami was the revered head of Siddaganga Math.", "kn": "ಡಾ. ಶಿವಕುಮಾರ ಸ್ವಾಮೀಜಿ ಸಿದ್ದಗಂಗಾ ಮಠದ ಪೂಜ್ಯ ಮುಖ್ಯಸ್ಥರಾಗಿದ್ದರು." }, "highlight": { "en": "Walking God", "kn": "ನಡೆದಾಡುವ ದೇವರು" } },
+            { "text": { "en": "He provided free food, shelter, and education to thousands of students.", "kn": "ಅವರು ಸಾವಿರಾರು ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಉಚಿತ ಆಹಾರ, ವಸತಿ ಮತ್ತು ಶಿಕ್ಷಣವನ್ನು ನೀಡಿದರು." }, "highlight": { "en": "Trividha Dasohi", "kn": "ತ್ರಿವಿಧ ದಾಸೋಹಿ" } },
+            { "text": { "en": "His service reached people beyond any caste or religion barriers.", "kn": "ಅವರ ಸೇವೆಯು ಜಾತಿ ಅಥವಾ ಧರ್ಮದ ಹಂಗಿಲ್ಲದೆ ಜನರನ್ನು ತಲುಪಿತು." }, "highlight": { "en": "Selfless Service", "kn": "ನಿಸ್ವಾರ್ಥ ಸೇವೆ" } },
+            { "text": { "en": "He lived for 111 years, dedicating every moment to social welfare.", "kn": "ಅವರು ೧೧೧ ವರ್ಷ ಬದುಕಿದರು, ಪ್ರತಿ ಕ್ಷಣವನ್ನು ಸಮಾಜ ಕಲ್ಯಾಣಕ್ಕಾಗಿ ಮುಡುಪಾಗಿಟ್ಟರು." }, "highlight": { "en": "Dedication", "kn": "ಸಮರ್ಪಣೆ" } },
+            { "text": { "en": "He is remembered as the 'Walking God' (Nadedaduva Devaru) of Karnataka.", "kn": "ಅವರನ್ನು ಕರ್ನಾಟಕದ 'ನಡೆದಾಡುವ ದೇವರು' ಎಂದು ನೆನಪಿಸಿಕೊಳ್ಳಲಾಗುತ್ತದೆ." }, "highlight": { "en": "Walking God", "kn": "ನಡೆದಾಡುವ ದೇವರು" } }
+          ],
+          "quiz": [
+            { "question": { "en": "Who is known as the 'Walking God' of Karnataka?", "kn": "ಕರ್ನಾಟಕದ 'ನಡೆದಾಡುವ ದೇವರು' ಎಂದು ಯಾರನ್ನು ಕರೆಯಲಾಗುತ್ತದೆ?" }, "options": [ { "en": "Basavanna", "kn": "ಬಸವಣ್ಣ" }, { "en": "Shivakumara Swami", "kn": "ಶಿವಕುಮಾರ ಸ್ವಾಮೀಜಿ" }, { "en": "Madhvacharya", "kn": "ಮಧ್ವಾಚಾರ್ಯ" }, { "en": "Vivekananda", "kn": "ವಿವೇಕಾನಂದ" } ], "correctIndex": 1 },
+            { "question": { "en": "What does 'Trividha Dasohi' refer to?", "kn": "'ತ್ರಿವಿಧ ದಾಸೋಹಿ' ಎಂಬುದು ಯಾವುದನ್ನು ಸೂಚಿಸುತ್ತದೆ?" }, "options": [ { "en": "Writer", "kn": "ಬರಹಗಾರ" }, { "en": "Giver of Food, Knowledge, and Shelter", "kn": "ಆಹಾರ, ಜ್ಞಾನ ಮತ್ತು ವಸತಿ ನೀಡುವವರು" }, { "en": "Warrior", "kn": "ಯೋಧ" }, { "en": "Farmer", "kn": "ರೈತ" } ], "correctIndex": 1 },
+            { "question": { "en": "In which math did the Swami serve?", "kn": "ಸ್ವಾಮೀಜಿಯವರು ಯಾವ ಮಠದಲ್ಲಿ ಸೇವೆ ಸಲ್ಲಿಸಿದರು?" }, "options": [ { "en": "Sringeri", "kn": "ಶೃಂಗೇರಿ" }, { "en": "Siddaganga", "kn": "ಸಿದ್ದಗಂಗಾ" }, { "en": "Udupi", "kn": "ಉಡುಪಿ" }, { "en": "Murugha", "kn": "ಮುರುಘಾ" } ], "correctIndex": 1 }
+          ]
+        }
+      ]
+    },
+    {
+      "districtId": "KA-GDG",
+      "districtName": { "en": "Gadag", "kn": "ಗದಗ" },
+      "famousFor": { "en": "Printing and Cooperation", "kn": "ಮುದ್ರಣ ಮತ್ತು ಸಹಕಾರ" },
+      "imageName": "dist_gadag",
+      "heroes": [
+        {
+          "name": { "en": "Kumaravyasa", "kn": "ಕುಮಾರವ್ಯಾಸ" },
+          "description": {
+            "en": "Kumaravyasa was an influential 15th-century Kannada poet whose work 'Gadugina Bharata' is a landmark in Kannada literature. His dramatic narration and rich metaphors have made his version of the Mahabharata extremely popular for centuries.",
+            "kn": "ಕುಮಾರವ್ಯಾಸ ೧೫ನೇ ಶತಮಾನದ ಪ್ರಭಾವಿ ಕನ್ನಡ ಕವಿ, ಅವರ 'ಗದಗಿನ ಭಾರತ' ಕೃತಿಯು ಕನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಒಂದು ಮೈಲಿಗಲ್ಲು. ಅವರ ನಾಟಕೀಯ ನಿರೂಪಣೆ ಮತ್ತು ಶ್ರೀಮಂತ ರೂಪಕಗಳು ಅವರ ಮಹಾಭಾರತದ ಆವೃತ್ತಿಯನ್ನು ಶತಮಾನಗಳಿಂದಲೂ ಅತ್ಯಂತ ಜನಪ್ರಿಯಗೊಳಿಸಿವೆ."
+          },
+          "imageName": "hero_kumaravyasa",
+          "type": "POET",
+          "era": "15th Century",
+          "storyPages": [
+            { "text": { "en": "Kumaravyasa was a great Kannada poet who wrote 'Gadugina Bharata'.", "kn": "ಕುಮಾರವ್ಯಾಸ 'ಗದಗಿನ ಭಾರತ'ವನ್ನು ಬರೆದ ಮಹಾನ್ ಕನ್ನಡ ಕವಿ." }, "highlight": { "en": "Epic Poet", "kn": "ಮಹಾಕವಿ" } },
+            { "text": { "en": "His work is an adaptation of the Mahabharata in the Bhamini Shatpadi style.", "kn": "ಅವರ ಕೃತಿಯು ಭಾಮಿನಿ ಷಟ್ಪದಿ ಶೈಲಿಯಲ್ಲಿ ಮಹಾಭಾರತದ ರೂಪಾಂತರವಾಗಿದೆ." }, "highlight": { "en": "Unique Style", "kn": "ವಿಶಿಷ್ಟ ಶೈಲಿ" } },
+            { "text": { "en": "He composed his verses in front of the Veeranarayana temple in Gadag.", "kn": "ಅವರು ಗದಗಿನ ವೀರನಾರಾಯಣ ದೇವಸ್ಥಾನದ ಮುಂದೆ ಕುಳಿತು ತಮ್ಮ ಪದ್ಯಗಳನ್ನು ರಚಿಸಿದರು." }, "highlight": { "en": "Divine Inspiration", "kn": "ದೈವಿಕ ಸ್ಫೂರ್ತಿ" } },
+            { "text": { "en": "His poetry is known for its rich metaphors and dramatic narration.", "kn": "ಅವರ ಕಾವ್ಯವು ಶ್ರೀಮಂತ ರೂಪಕಗಳು ಮತ್ತು ನಾಟಕೀಯ ನಿರೂಪಣೆಗೆ ಹೆಸರುವಾಸಿಯಾಗಿದೆ." }, "highlight": { "en": "Literary Mastery", "kn": "ಸಾಹಿತ್ಯಿಕ ಪ್ರೌಢಿಮೆ" } },
+            { "text": { "en": "Gadugina Bharata remains one of the most popular works in Kannada literature.", "kn": "ಗದಗಿನ ಭಾರತ ಕನ್ನಡ ಸಾಹಿತ್ಯದ ಅತ್ಯಂತ ಜನಪ್ರಿಯ ಕೃತಿಗಳಲ್ಲಿ ಒಂದಾಗಿ ಉಳಿದಿದೆ." }, "highlight": { "en": "Classic Work", "kn": "ಶ್ರೇಷ್ಠ ಕೃತಿ" } }
+          ],
+          "quiz": [
+            { "question": { "en": "What is the name of Kumaravyasa's version of Mahabharata?", "kn": "ಕುಮಾರವ್ಯಾಸ ಬರೆದ ಮಹಾಭಾರತದ ಹೆಸರೇನು?" }, "options": [ { "en": "Pampa Bharata", "kn": "ಪಂಪ ಭಾರತ" }, { "en": "Gadugina Bharata", "kn": "ಗದಗಿನ ಭಾರತ" }, { "en": "Ramayana", "kn": "ರಾಮಾಯಣ" }, { "en": "Vachana", "kn": "ವಚನ" } ], "correctIndex": 1 },
+            { "question": { "en": "In which style did Kumaravyasa write?", "kn": "ಕುಮಾರವ್ಯಾಸ ಯಾವ ಶೈಲಿಯಲ್ಲಿ ಬರೆದರು?" }, "options": [ { "en": "Champu", "kn": "ಚಂಪು" }, { "en": "Bhamini Shatpadi", "kn": "ಭಾಮಿನಿ ಷಟ್ಪದಿ" }, { "en": "Vachana", "kn": "ವಚನ" }, { "en": "Prose", "kn": "ಗದ್ಯ" } ], "correctIndex": 1 },
+            { "question": { "en": "Where did he compose his famous work?", "kn": "ಅವರು ತಮ್ಮ ಪ್ರಸಿದ್ಧ ಕೃತಿಯನ್ನು ಎಲ್ಲಿ ರಚಿಸಿದರು?" }, "options": [ { "en": "Mysuru", "kn": "ಮೈಸೂರು" }, { "en": "Gadag", "kn": "ಗದಗ" }, { "en": "Hampi", "kn": "ಹಂಪಿ" }, { "en": "Dharwad", "kn": "ಧಾರವಾಡ" } ], "correctIndex": 1 }
+          ]
+        }
+      ]
+    },
+    {
+      "districtId": "KA-KAR",
+      "districtName": { "en": "Karwar", "kn": "ಕಾರವಾರ" },
+      "famousFor": { "en": "Beaches and Pepper", "kn": "ಸಮುದ್ರ ತೀರಗಳು ಮತ್ತು ಕಾಳುಮೆಣಸು" },
+      "imageName": "dist_karwar",
+      "heroes": [
+        {
+          "name": { "en": "Rani Chennabhairadevi", "kn": "ರಾಣಿ ಚೆನ್ನಭೈರಾದೇವಿ" },
+          "description": {
+            "en": "Rani Chennabhairadevi was the Queen of Gerosoppa who ruled for an astounding 54 years. Known as the 'Pepper Queen' by the Portuguese, she was a powerful ruler who dominated the spice trade and defended her territory against foreign powers.",
+            "kn": "ರಾಣಿ ಚೆನ್ನಭೈರಾದೇವಿ ಗೇರುಸೊಪ್ಪದ ರಾಣಿಯಾಗಿದ್ದು, ಅಚ್ಚರಿಯ ೫೪ ವರ್ಷಗಳ ಕಾಲ ಆಳ್ವಿಕೆ ನಡೆಸಿದರು. ಪೋರ್ಚುಗೀಸರಿಂದ 'ಕಾಳುಮೆಣಸಿನ ರಾಣಿ' ಎಂದು ಕರೆಯಲ್ಪಡುತ್ತಿದ್ದ ಅವರು, ಸಾಂಬಾರ ಪದಾರ್ಥಗಳ ವ್ಯಾಪಾರದಲ್ಲಿ ಪ್ರಾಬಲ್ಯ ಹೊಂದಿದ್ದರು ಮತ್ತು ಪರಕೀಯರ ವಿರುದ್ಧ ತಮ್ಮ ಪ್ರದೇಶವನ್ನು ರಕ್ಷಿಸಿದರು."
+          },
+          "imageName": "hero_chennabhairadevi",
+          "type": "WARRIOR",
+          "era": "16th Century",
+          "storyPages": [
+            { "text": { "en": "Chennabhairadevi was the Queen of Gerosoppa and Honnavar.", "kn": "ಚೆನ್ನಭೈರಾದೇವಿ ಗೇರುಸೊಪ್ಪ ಮತ್ತು ಹೊನ್ನಾವರದ ರಾಣಿಯಾಗಿದ್ದಳು." }, "highlight": { "en": "Pepper Queen", "kn": "ಕಾಳುಮೆಣಸಿನ ರಾಣಿ" } },
+            { "text": { "en": "She was famously called the 'Pepper Queen' by the Portuguese.", "kn": "ಪೋರ್ಚುಗೀಸರು ಅವಳನ್ನು 'ಕಾಳುಮೆಣಸಿನ ರಾಣಿ' ಎಂದು ಕರೆಯುತ್ತಿದ್ದರು." }, "highlight": { "en": "International Trade", "kn": "ಅಂತರರಾಷ್ಟ್ರಿಯ ವ್ಯಾಪಾರ" } },
+            { "text": { "en": "She ruled for 54 years, which is one of the longest reigns by any Indian queen.", "kn": "ಅವಳು ೫೪ ವರ್ಷಗಳ ಕಾಲ ಆಳಿದಳು, ಇದು ಯಾವುದೇ ಭಾರತೀಯ ರಾಣಿಯ ದೀರ್ಘಕಾಲದ ಆಳ್ವಿಕೆಗಳಲ್ಲಿ ಒಂದಾಗಿದೆ." }, "highlight": { "en": "Long Reign", "kn": "ದೀರ್ಘ ಆಳ್ವಿಕೆ" } },
+            { "text": { "en": "She controlled the trade of high-quality pepper to Europe.", "kn": "ಯುರೋಪಿಗೆ ಉತ್ತಮ ಗುಣಮಟ್ಟದ ಕಾಳುಮೆಣಸಿನ ವ್ಯಾಪಾರವನ್ನು ಅವಳು ನಿಯಂತ್ರಿಸುತ್ತಿದ್ದಳು." }, "highlight": { "en": "Economic Power", "kn": "ಆರ್ಥಿಕ ಶಕ್ತಿ" } },
+            { "text": { "en": "She defended her kingdom against several invading forces.", "kn": "ಅವಳು ತನ್ನ ಸಾಮ್ರಾಜ್ಯವನ್ನು ಹಲವಾರು ಆಕ್ರಮಣಕಾರಿ ಶಕ್ತಿಗಳ ವಿರುದ್ಧ ರಕ್ಷಿಸಿದಳು." }, "highlight": { "en": "Defense", "kn": "ರಕ್ಷಣೆ" } }
+          ],
+          "quiz": [
+            { "question": { "en": "What was Chennabhairadevi's nickname?", "kn": "ಚೆನ್ನಭೈರಾದೇವಿಯ ಅಡ್ಡಹೆಸರು ಏನು?" }, "options": [ { "en": "Cotton Queen", "kn": "ಹತ್ತಿ ರಾಣಿ" }, { "en": "Pepper Queen", "kn": "ಕಾಳುಮೆಣಸಿನ ರಾಣಿ" }, { "en": "Silk Queen", "kn": "ರೇಷ್ಮೆ ರಾಣಿ" }, { "en": "Gold Queen", "kn": "ಚಿನ್ನದ ರಾಣಿ" } ], "correctIndex": 1 },
+            { "question": { "en": "How many years did she rule?", "kn": "ಅವಳು ಎಷ್ಟು ವರ್ಷಗಳ ಕಾಲ ಆಳಿದಳು?" }, "options": [ { "en": "10", "kn": "೧೦" }, { "en": "54", "kn": "೫೪" }, { "en": "25", "kn": "೨೫" }, { "en": "40", "kn": "೪೦" } ], "correctIndex": 1 },
+            { "question": { "en": "Which commodity did she trade extensively?", "kn": "ಅವಳು ಯಾವ ವಸ್ತುವನ್ನು ವ್ಯಾಪಕವಾಗಿ ವ್ಯಾಪಾರ ಮಾಡುತ್ತಿದ್ದಳು?" }, "options": [ { "en": "Gold", "kn": "ಚಿನ್ನ" }, { "en": "Pepper", "kn": "ಕಾಳುಮೆಣಸು" }, { "en": "Salt", "kn": "ಉಪ್ಪು" }, { "en": "Sugar", "kn": "ಸಕ್ಕರೆ" } ], "correctIndex": 1 }
+          ]
+        }
+      ]
+    },
+    {
+      "districtId": "KA-DKS",
+      "districtName": { "en": "Dakshina Kannada", "kn": "ದಕ್ಷಿಣ ಕನ್ನಡ" },
+      "famousFor": { "en": "Education, Banking, and Culture", "kn": "ಶಿಕ್ಷಣ, ಬ್ಯಾಂಕಿಂಗ್ ಮತ್ತು ಸಂಸ್ಕೃತಿ" },
+      "imageName": "dist_dakshina_kannada",
+      "heroes": [
+        {
+          "name": { "en": "Rani Abbakka Chowta", "kn": "ರಾಣಿ ಅಬ್ಬಕ್ಕ" },
+          "description": {
+            "en": "Rani Abbakka Chowta was the first female freedom fighter of India who resisted Portuguese colonization in the 16th century. Ruling from Ullal, she defeated the Portuguese multiple times and is celebrated for her indomitable spirit and patriotism.",
+            "kn": "ರಾಣಿ ಅಬ್ಬಕ್ಕ ಚೌಟ ೧೬ನೇ ಶತಮಾನದಲ್ಲಿ ಪೋರ್ಚುಗೀಸ್ ವಸಾಹತುಶಾಹಿಯನ್ನು ಪ್ರತಿರೋಧಿಸಿದ ಭಾರತದ ಮೊದಲ ಮಹಿಳಾ ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟಗಾರ್ತಿ. ಉಳ್ಳಾಲದಿಂದ ಆಳುತ್ತಿದ್ದ ಅವರು ಪೋರ್ಚುಗೀಸರನ್ನು ಹಲವು ಬಾರಿ ಸೋಲಿಸಿದರು och ಅವರ ಅಚಲ ಚೇತನ ಹಾಗೂ ದೇಶಪ್ರೇಮಕ್ಕಾಗಿ ಆಚರಿಸಲ್ಪಡುತ್ತಾರೆ."
+          },
+          "imageName": "hero_abbakka",
+          "type": "FREEDOM_FIGHTER",
+          "era": "16th Century",
+          "storyPages": [
+            { "text": { "en": "Rani Abbakka was the first female freedom fighter of India who fought the Portuguese.", "kn": "ರಾಣಿ ಅಬ್ಬಕ್ಕ ಪೋರ್ಚುಗೀಸರ ವಿರುದ್ಧ ಹೋರಾಡಿದ ಭಾರತದ ಮೊದಲ ಮಹಿಳಾ ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟಗಾರ್ತಿ." }, "highlight": { "en": "Abhaya Rani", "kn": "ಅಭಯ ರಾಣಿ" } },
+            { "text": { "en": "She ruled over Ullal, a small port town near Mangaluru.", "kn": "ಅವಳು ಮಂಗಳೂರಿನ ಸಮೀಪದ ಉಳ್ಳಾಲ ಎಂಬ ಪುಟ್ಟ ಬಂದರು ಪಟ್ಟಣವನ್ನು ಆಳುತ್ತಿದ್ದಳು." }, "highlight": { "en": "Queen of Ullal", "kn": "ಉಳ್ಳಾಲದ ರಾಣಿ" } },
+            { "text": { "en": "She defeated the Portuguese in several battles for over 40 years.", "kn": "ಅವಳು ೪೦ಕ್ಕೂ ಹೆಚ್ಚು ವರ್ಷಗಳ ಕಾಲ ಪೋರ್ಚುಗೀಸರನ್ನು ಹಲವಾರು ಯುದ್ಧಗಳಲ್ಲಿ ಸೋಲಿಸಿದಳು." }, "highlight": { "en": "Unyielding Spirit", "kn": "ಅಚಲ ಚೇತನ" } },
+            { "text": { "en": "She is known for her bravery and clever military tactics like using fire arrows.", "kn": "ಅವಳು ಶೌರ್ಯ ಮತ್ತು ಅಗ್ನಿ ಬಾಣಗಳಂತಹ ಬುದ್ಧಿವಂತ ಮಿಲಿಟರಿ ತಂತ್ರಗಳಿಗೆ ಹೆಸರುವಾಸಿಯಾಗಿದ್ದಾಳೆ." }, "highlight": { "en": "Tactician", "kn": "ತಂತ್ರಜ್ಞೆ" } },
+            { "text": { "en": "She is remembered as a symbol of coastal Karnataka's resistance to foreign rule.", "kn": "ಪರಕೀಯರ ಆಳ್ವಿಕೆಗೆ ಕರಾವಳಿ ಕರ್ನಾಟಕದ ಪ್ರತಿರೋಧದ ಸಂಕೇತವಾಗಿ ಅವಳನ್ನು ನೆನಪಿಸಿಕೊಳ್ಳಲಾಗುತ್ತದೆ." }, "highlight": { "en": "Resistance Symbol", "kn": "ಪ್ರತಿರೋಧದ ಸಂಕೇತ" } }
+          ],
+          "quiz": [
+            { "question": { "en": "Against which colonial power did Rani Abbakka fight?", "kn": "ರಾಣಿ ಅಬ್ಬಕ್ಕ ಯಾವ ವಸಾಹತುಶಾಹಿ ಶಕ್ತಿಯ ವಿರುದ್ಧ ಹೋರಾಡಿದರು?" }, "options": [ { "en": "British", "kn": "ಬ್ರಿಟಿಷ್" }, { "en": "Portuguese", "kn": "ಪೋರ್ಚುಗೀಸ್" }, { "en": "Dutch", "kn": "ಡಚ್" }, { "en": "French", "kn": "ಫ್ರೆಂಚ್" } ], "correctIndex": 1 },
+            { "question": { "en": "Which town was her capital?", "kn": "ಅವರ ರಾಜಧಾನಿ ಯಾವುದಾಗಿತ್ತು?" }, "options": [ { "en": "Karwar", "kn": "ಕಾರವಾರ" }, { "en": "Ullal", "kn": "ಉಳ್ಳಾಲ" }, { "en": "Mysuru", "kn": "ಮೈಸೂರು" }, { "en": "Kolar", "kn": "ಕೋಲಾರ" } ], "correctIndex": 1 },
+            { "question": { "en": "What is she popularly known as?", "kn": "ಅವರನ್ನು ಜನಪ್ರಿಯವಾಗಿ ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?" }, "options": [ { "en": "Rajarishi", "kn": "ರಾಜರ್ಷಿ" }, { "en": "Abhaya Rani", "kn": "ಅಭಯ ರಾಣಿ" }, { "en": "Rishikavi", "kn": "ಋಷಿಕವಿ" }, { "en": "Kulapurohita", "kn": "ಕುಲಪುರೋಹಿತ" } ], "correctIndex": 1 }
+          ]
+        }
+      ]
+    },
+    {
+      "districtId": "KA-BAG",
+      "districtName": { "en": "Bagalkot", "kn": "ಬಾಗಲಕೋಟೆ" },
+      "famousFor": { "en": "Chalukya Temples and Silk", "kn": "ಚಾಲುಕ್ಯ ದೇವಾಲಯಗಳು ಮತ್ತು ರೇಷ್ಮೆ" },
+      "imageName": "dist_bagalkot",
+      "heroes": [
+        {
+          "name": { "en": "Akkamahadevi", "kn": "ಅಕ್ಕಮಹಾದೇವಿ" },
+          "description": {
+            "en": "Akkamahadevi was a prominent figure in the 12th-century Veerashaiva Bhakti movement and a pioneer of feminine expression in Kannada literature. Her Vachanas are masterpiece of mystic poetry, reflecting her intense devotion and spiritual independence.",
+            "kn": "ಅಕ್ಕಮಹಾದೇವಿ ೧೨ನೇ ಶತಮಾನದ ವೀರಶೈವ ಭಕ್ತಿ ಚಳುವಳಿಯ ಪ್ರಮುಖ ವ್ಯಕ್ತಿ ಮತ್ತು ಕನ್ನಡ ಸಾಹಿತ್ಯದಲ್ಲಿ ಸ್ತ್ರೀ ಅಭಿವ್ಯಕ್ತಿಯ ಪ್ರವರ್ತಕಿ. ಅವರ ವಚನಗಳು ಅವರ ತೀವ್ರ ಭಕ್ತಿ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಸ್ವಾತಂತ್ರ್ಯವನ್ನು ಪ್ರತಿಬಿಂಬಿಸುವ ಅನುಭಾವಿ ಕಾವ್ಯದ ಮೇರುಕೃತಿಗಳಾಗಿವೆ."
+          },
+          "imageName": "hero_akkamahadevi",
+          "type": "POET",
+          "era": "12th Century",
+          "storyPages": [
+            { "text": { "en": "Akkamahadevi was a prominent poet and mystic of the 12th century.", "kn": "ಅಕ್ಕಮಹಾದೇವಿ ೧೨ನೇ ಶತಮಾನದ ಪ್ರಮುಖ ಕವಯಿತ್ರಿ ಮತ್ತು ಅನುಭಾವಿಯಾಗಿದ್ದರು." }, "highlight": { "en": "Vachana Poet", "kn": "ವಚನಕಾರ್ತಿ" } },
+            { "text": { "en": "She was a devoted follower of Lord Chennamallikarjuna (Shiva).", "kn": "ಅವರು ಚೆನ್ನಮಲ್ಲಿಕಾರ್ಜುನನ (ಶಿವ) ಪರಮ ಭಕ್ತರಾಗಿದ್ದರು." }, "highlight": { "en": "Devotion", "kn": "ಭಕ್ತಿ" } },
+            { "text": { "en": "She wrote many beautiful vachanas expressing her spiritual journey.", "kn": "ಅವರು ತಮ್ಮ ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಯಾಣವನ್ನು ವ್ಯಕ್ತಪಡಿಸುವ ಅನೇಕ ಸುಂದರ ವಚನಗಳನ್ನು ಬರೆದಿದ್ದಾರೆ." }, "highlight": { "en": "Vachanas", "kn": "ವಚನಗಳು" } },
+            { "text": { "en": "She was an active participant in the 'Anubhava Mantapa'.", "kn": "ಅವರು 'ಅನುಭವ ಮಂಟಪ'ದಲ್ಲಿ ಸಕ್ರಿಯವಾಗಿ भागವಹಿಸುತ್ತಿದ್ದರು." }, "highlight": { "en": "Active Participation", "kn": "ಸಕ್ರಿಯ ಭಾಗವಹಿಸುವಿಕೆ" } },
+            { "text": { "en": "Her courage and determination inspired women to seek spiritual independence.", "kn": "ಅವರ ಧೈರ್ಯ ಮತ್ತು ದೃಢನಿಶ್ಚಯವು ಮಹಿಳೆಯರಿಗೆ ಆಧ್ಯಾತ್ಮಿಕ ಸ್ವಾತಂತ್ರ್ಯವನ್ನು ಹುಡುಕಲು ಸ್ಫೂರ್ತಿ ನೀಡಿತು." }, "highlight": { "en": "Inspiration for Women", "kn": "ಮಹಿಳೆಯರಿಗೆ ಸ್ಫೂರ್ತಿ" } }
+          ],
+          "quiz": [
+            { "question": { "en": "To whom were Akkamahadevi's vachanas dedicated?", "kn": "ಅಕ್ಕಮಹಾದೇವಿಯ ವಚನಗಳು ಯಾರಿಗೆ ಅರ್ಪಿತವಾಗಿವೆ?" }, "options": [ { "en": "Vishnu", "kn": "ವಿಷ್ಣು" }, { "en": "Chennamallikarjuna", "kn": "ಚೆನ್ನಮಲ್ಲಿಕಾರ್ಜುನ" }, { "en": "Ganesha", "kn": "ಗಣೇಶ" }, { "en": "Rama", "kn": "ರಾಮ" } ], "correctIndex": 1 },
+            { "question": { "en": "In which movement was she a key figure?", "kn": "ಅವರು ಯಾವ ಚಳುವಳಿಯ ಪ್ರಮುಖ ವ್ಯಕ್ತಿಯಾಗಿದ್ದರು?" }, "options": [ { "en": "Bhakti/Vachana Movement", "kn": "ಭಕ್ತಿ/ವಚನ ಚಳುವಳಿ" }, { "en": "Freedom Movement", "kn": "ಸ್ವಾತಂತ್ರ್ಯ ಚಳುವಳಿ" }, { "en": "Quit India", "kn": "ಕ್ವಿಟ್ ಇಂಡಿಯಾ" }, { "en": "Salt Satyagraha", "kn": "ಉಪ್ಪಿನ ಸತ್ಯಾಗ್ರಹ" } ], "correctIndex": 0 },
+            { "question": { "en": "What did she write?", "kn": "ಅವರು ಏನನ್ನು ಬರೆದರು?" }, "options": [ { "en": "Novels", "kn": "ಕಾದಂಬರಿಗಳು" }, { "en": "Vachanas", "kn": "ವಚನಗಳು" }, { "en": "Plays", "kn": "ನಾಟಕಗಳು" }, { "en": "Songs", "kn": "ಹಾಡುಗಳು" } ], "correctIndex": 1 }
+          ]
+        }
+      ]
+    }
+  ]
+}
