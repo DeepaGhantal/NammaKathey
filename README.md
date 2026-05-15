@@ -1,112 +1,61 @@
-NammaKathey (ನಮ್ಮ ಕಥೆ)
-An AI-powered personalized storytelling app rooted in the culture and heritage of Karnataka.
+# Namma Kathey (ನಮ್ಮ ಕಥೆ)
 
-Overview
-NammaKathey is an Android application that generates personalized stories for children using Generative AI. The app allows users to enter a child’s name and instantly creates safe, inspiring, and culturally relevant stories where the child becomes the hero of an adventure set in Karnataka.
+**Namma Kathey** is an immersive Android application designed to educate and inspire children about the rich history and legendary heroes of Karnataka. Through engaging storytelling, interactive quizzes, and modern AI capabilities, the app brings the tales of brave warriors, visionary reformers, and celebrated poets to life.
 
-The project combines modern Android development with AI-powered storytelling to create a unique educational and entertaining experience.
+## 🌟 Features
 
-Problem Statement
-Modern digital storytelling platforms often face the following issues:
+- **Explore Districts**: Navigate through various districts of Karnataka and discover what makes each of them famous.
+- **Hero Biographies**: Learn about iconic figures like Kittur Chennamma, Nadaprabhu Kempegowda, Kuvempu, and more.
+- **Bilingual Support**: Fully accessible in both **English** and **Kannada**, allowing children to learn in their preferred language.
+- **AI Story Mode**: Powered by **Google Gemini**, this feature generates unique, child-friendly, inspiring stories about Karnataka's heroes on demand.
+- **Interactive Quizzes**: Test your knowledge after reading stories to earn points and unlock badges.
+- **Badge Gallery**: Track your progress and collect badges as you learn about different heroes.
+- **Find Statues**: Integrated with Google Maps to help users find historical statues and landmarks across the state.
 
-1. Lack of Personalization
-Children usually remain passive listeners instead of active participants in stories.
+## 🛠️ Tech Stack
 
-2. Cultural Erosion
-Many storytelling applications focus on generic global narratives and fail to connect children with local traditions, heritage, and history.
+- **UI Framework**: Jetpack Compose
+- **Language**: Kotlin
+- **Architecture**: MVVM (Model-View-ViewModel)
+- **Dependency Injection**: Hilt
+- **Navigation**: Compose Navigation
+- **Networking/AI**: Google AI SDK (Generative AI for Gemini)
+- **Data Handling**: Gson for local JSON parsing
+- **Image Loading**: Coil
 
-3. Content Fatigue
-Parents often struggle to create fresh, engaging, and meaningful stories regularly.
+## 🚀 Getting Started
 
-Solution
-NammaKathey solves these challenges using Generative AI to create personalized and culturally rich stories where the child becomes the main character in adventures inspired by Karnataka’s history, landmarks, traditions, and festivals.
+### Prerequisites
 
-Features
-Personalized hero customization
-AI-generated storytelling using Gemini 2.0 Flash
-Karnataka-based cultural storytelling
-Child-safe and age-appropriate content generation
-Modern UI built using Jetpack Compose
-Fast story generation with smooth user experience
+- Android Studio Ladybug or newer
+- JDK 11 or higher
+- A Google Gemini API Key from [Google AI Studio](https://aistudio.google.com/)
 
-Tech Stack
-Kotlin – Programming Language
-Jetpack Compose – UI Development
-Google Gemini 2.0 Flash – AI Story Generation
-Hilt (Dagger-Hilt) – Dependency Injection
-Retrofit – Networking
-OkHttp – HTTP Client
-Gradle Kotlin DSL – Build System
-Git & GitHub – Version Control
+### Installation
 
-Project Architecture
-The application follows a clean and modular Android architecture using:
-MVVM Architecture
-Repository Pattern
-Dependency Injection with Hilt
-Compose-based UI components
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yourusername/NammaKathey.git
+   ```
 
-Installation Guide
-1. Clone the Repository
-git clone https://github.com/DeepaGhantal/NammaKathey.git
-2. Open in Android Studio
-Open the project folder in Android Studio.
-3. Generate Gemini API Key
-Visit Google AI Studio
-Generate a Gemini API Key
-4. Configure API Key
-Open the local.properties file and add: GEMINI_API_KEY=your_api_key_here
-5. Sync Gradle
-Click:Sync Project with Gradle Files
-Wait for all dependencies to download successfully.
+2. **Configure the API Key**:
+   Create a `local.properties` file in the root directory (if it doesn't exist) and add your Gemini API key:
+   ```properties
+   GEMINI_API_KEY=your_api_key_here
+   ```
 
-Run the Application
-Using Terminal
-./gradlew installDebug
-Using Android Studio
-Click the Run button in Android Studio to launch the application on an emulator or physical device.
+3. **Build the project**:
+   Open the project in Android Studio, sync Gradle, and run the app on an emulator or a physical device.
 
-Folder Structure
-NammaKathey/
-├── app/
-│   ├── src/main/java/com/example/nammakathey/
-│   │   ├── ui/             # Jetpack Compose Screens & ViewModels
-│   │   ├── repository/     # AI Logic and Data Handling
-│   │   ├── di/             # Hilt Dependency Injection Modules
-│   │   └── MainActivity.kt # Application Entry Point
-│   ├── build.gradle.kts
-├── gradle/
-├── local.properties
-└── README.md
+## 📁 Project Structure
 
-Demo
-GitHub Repository
-https://github.com/DeepaGhantal/NammaKathey
+- `ui/screens/`: Contains all Compose-based screens (Home, Detail, Story, Quiz, etc.).
+- `viewmodel/`: Contains the `StoryViewModel` which manages app state and logic.
+- `repository/`: Handles data fetching from local JSON and AI interactions via `GeminiHelper`.
+- `model/`: Data classes for Districts, Heroes, Stories, and Quizzes.
+- `assets/`: Contains `stories.json`, the primary data source for historical content.
 
-Future Improvements
--Offline story storage using Room Database
--Kannada language support
--AI-generated illustrations for stories
--Text-to-Speech narration feature
--PDF export for story booklets
--User authentication and cloud sync
--Story history and favorites section
+## 🤝 Contributing
 
-Learning Outcomes
--Through this project, the following skills were developed:
--Android App Development using Kotlin
--Modern UI Design with Jetpack Compose
--Integration of Generative AI APIs
--API Handling and Networking
--Dependency Injection using Hilt
--Project Structuring and GitHub Management
-
-Contributing
-Contributions, suggestions, and improvements are welcome.
--Fork the repository
--Create a feature branch
--Commit your changes
--Push to your branch
--Open a Pull Request
-
+Contributions are welcome! If you have ideas for new features or want to add more stories about Karnataka's heroes, feel free to open an issue or submit a pull request.
 
